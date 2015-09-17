@@ -1,9 +1,13 @@
-LIST OF MEMBERS FOR TEAM X
+var polylines = LIST OF MEMBERS FOR TEAM X
  
 Sun
  
 Nicholas
  
-James
+James 
  
 Karen
+ 
+Role in project: programmer
+ 
+Preferred branch of engineering: mechanical
