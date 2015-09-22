@@ -1,6 +1,10 @@
 var polylines = LIST OF MEMBERS FOR TEAM X
  
 Sun
+
+Role in project: editor
+
+Preferred branch of engineering: civil
  
 Nicholas
  
